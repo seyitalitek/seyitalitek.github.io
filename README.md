@@ -1,1 +1,0 @@
-# seyitalitek.github.io
