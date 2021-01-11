@@ -210,7 +210,7 @@ footer {
 
 footer p {
   text-align: center;
-  color: var(--tag-color);
+  color: var(--button-color);
   background-color: #5a341009;
   padding: 10px;
   margin-bottom: 10px;
