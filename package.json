@@ -1,0 +1,13 @@
+{
+  "name": "seyitalitek.github.io",
+  "version": "1.0.0",
+  "description": "Peronal Page",
+  "main": "index.js",
+  "repository": "git@github.com:seyitalitek/seyitalitek.github.io.git",
+  "author": "seyitali <seyitalitek@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
