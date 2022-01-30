@@ -19,6 +19,9 @@ html {
 
 body {
   background-color: #111111;
+  background-image: -webkit-linear-gradient(135deg, #111111 10%, #434343 100%);
+  background-image: -moz-linear-gradient(135deg, #111111 10%, #434343 100%);
+  background-image: -o-linear-gradient(135deg, #111111 10%, #434343 100%);
   background-image: linear-gradient(135deg, #111111 10%, #434343 100%);
   background-size: cover;
   max-width: 900px;
