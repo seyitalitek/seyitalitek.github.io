@@ -1,3 +1,0 @@
-# seyitalitek.github.io
-
-## Description
